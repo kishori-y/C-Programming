@@ -5,8 +5,9 @@ https://www.asciii.com/ascii-table*/
 #include<stdio.h>
 int main()
 {
-    char ch = 'a';
-    printf("The character is %c \n", ch);
+    char ch;
+    printf("Enter The character: ");
+    scanf("%c",&ch);
     printf("The value of character is %d \n", ch);
     //97 - 122
 
