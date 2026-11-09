@@ -1,4 +1,4 @@
-/*  */
+/* Write a programe using functions to find average of three numbers */
 
 #include<stdio.h>
 
