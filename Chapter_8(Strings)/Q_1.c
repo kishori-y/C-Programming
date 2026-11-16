@@ -1,9 +1,6 @@
-/* which of the following is used to appropriately
-read a multi-word string 
-(a) gets()
-(b) puts()
-(c) printf()
-(d) scanf()       */
+/*  Write a program to take string as an input 
+from the user using %c and %s 
+confirm that the strings are equal      */
 
 #include<stdio.h>
 
